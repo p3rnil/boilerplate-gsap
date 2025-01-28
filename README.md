@@ -13,5 +13,5 @@ This is a starter template built with **Next.js** and integrated with **GSAP** f
 1. Clone this repository:
 
     ```bash
-    npx create-next-app --example https://github.com/yourusername/next-gsap-lenis-template.git
+    npx create-next-app --example https://github.com/p3rnil/boilerplate-gsap
     ```
